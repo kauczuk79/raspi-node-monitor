@@ -1,0 +1,16 @@
+{
+  "name": "raspi-node-monitor-backend",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "author": "Robert Wesołowski",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
