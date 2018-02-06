@@ -13,5 +13,8 @@
   "dependencies": {
     "express": "^4.16.2",
     "node-cmd": "^3.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^2.7.1"
   }
 }
